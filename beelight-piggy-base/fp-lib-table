@@ -1,6 +1,5 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "BMA253") (type "KiCad") (uri "/Users/flo/Downloads/BMA253.pretty") (options "") (descr ""))
-	(lib (name "BMA253") (type "KiCad") (uri "/Users/flo/Downloads/BMA253.pretty") (options "") (descr ""))
 	(lib (name "beelight") (type "KiCad") (uri "${KIPRJMOD}/beelight.pretty") (options "") (descr ""))
 )
