@@ -13295,7 +13295,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Footprint" ".local:QFN-10_2x2mm_P0.5mm"
+		(property "Footprint" "beelight:rysta"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13306,7 +13306,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2667/document_id/5971/"
+		(property "Datasheet" ""
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13317,7 +13317,7 @@
 				)
 			)
 		)
-		(property "Description" "Single-cell charger with I2C control and power-path management"
+		(property "Description" ""
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
