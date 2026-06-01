@@ -8682,6 +8682,12 @@
 		(uuid "b987352f-5611-49e8-ae64-8c4d14920741")
 	)
 	(junction
+		(at 165.1 241.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be0329c9-799d-4fc4-8a7e-e39a88b2629d")
+	)
+	(junction
 		(at 370.84 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9706,6 +9712,16 @@
 			(type default)
 		)
 		(uuid "536c124b-6459-48cb-babf-25c5c316a150")
+	)
+	(wire
+		(pts
+			(xy 165.1 214.63) (xy 165.1 241.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "542dbfc5-ae38-4822-9dce-050905c23bff")
 	)
 	(wire
 		(pts
@@ -10809,6 +10825,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 217.17) (xy 118.11 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aae295c3-48c9-436a-a9bd-b087e82e7bcb")
+	)
+	(wire
+		(pts
 			(xy 261.62 43.18) (xy 261.62 179.07)
 		)
 		(stroke
@@ -11306,6 +11332,16 @@
 			(type default)
 		)
 		(uuid "da1e596a-6ba4-4587-b362-fa9c30cafdf0")
+	)
+	(wire
+		(pts
+			(xy 118.11 214.63) (xy 165.1 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc1d2e89-f97a-49d8-bde6-19a0fd71a108")
 	)
 	(wire
 		(pts
@@ -17559,84 +17595,6 @@
 			(project "beelight-piggy-base"
 				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
 					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 118.11 217.17 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7a738284-aa45-40c3-9a7d-62ee6f7f2cbc")
-		(property "Reference" "#PWR055"
-			(at 118.11 220.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 118.11 212.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 118.11 217.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.11 217.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 118.11 217.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4177e3d9-a81f-4295-b801-dc3340f0f5cf")
-		)
-		(instances
-			(project "beelight-piggy-base"
-				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
-					(reference "#PWR055")
 					(unit 1)
 				)
 			)
