@@ -18777,6 +18777,7 @@
 		)
 		(property "Value" "SW_Push"
 			(at 96.52 198.1199 90)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24297,7 +24298,6 @@
 	(symbol
 		(lib_id ".local:D_Schottky")
 		(at 256.54 226.06 0)
-		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24305,10 +24305,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f3370550-f5e7-4c3d-89d1-f5bd29c22ecb")
 		(property "Reference" "D23"
-			(at 256.8575 219.71 0)
+			(at 256.2225 219.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24317,8 +24316,8 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
-			(at 256.8575 222.25 0)
+		(property "Value" "Schottky"
+			(at 256.2225 222.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
