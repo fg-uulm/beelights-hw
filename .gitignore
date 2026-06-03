@@ -1,0 +1,4 @@
+*.lck
+*.bak
+.history/
+beelight-piggy-base/beelight-piggy-base-backups/
