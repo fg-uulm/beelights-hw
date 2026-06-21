@@ -8376,7 +8376,7 @@
 	)
 	(rectangle
 		(start 22.86 21.59)
-		(end 82.55 80.01)
+		(end 85.09 80.01)
 		(stroke
 			(width 0)
 			(type default)
@@ -8666,6 +8666,12 @@
 		(uuid "14a3c2fd-fdd2-4573-b677-d266896795b0")
 	)
 	(junction
+		(at 33.02 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "19691263-3a83-40a4-913c-226bf462a3bd")
+	)
+	(junction
 		(at 118.11 226.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8888,10 +8894,22 @@
 		(uuid "c010acfb-f361-47b5-9aaa-b42ceda429b8")
 	)
 	(junction
+		(at 36.83 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c0a02223-979d-43b5-9883-644a86c7dca6")
+	)
+	(junction
 		(at 379.73 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c29833be-81e5-499a-bcb0-4d4a2f853073")
+	)
+	(junction
+		(at 81.28 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c874f813-299d-494f-a909-695a52328dcb")
 	)
 	(junction
 		(at 165.1 137.16)
@@ -8940,6 +8958,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5fefbac-c6f8-4e11-a1be-21f95b765011")
+	)
+	(junction
+		(at 124.46 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8ef996b-7fb5-4973-8390-caea794134e3")
 	)
 	(junction
 		(at 165.1 180.34)
@@ -9324,6 +9348,16 @@
 			(type default)
 		)
 		(uuid "0cae1b7c-a16f-4ebc-b440-709d868c1953")
+	)
+	(wire
+		(pts
+			(xy 33.02 39.37) (xy 36.83 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eadddc0-7485-44b2-9171-1032b8094829")
 	)
 	(wire
 		(pts
@@ -10217,7 +10251,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 39.37) (xy 33.02 39.37)
+			(xy 36.83 39.37) (xy 40.64 39.37)
 		)
 		(stroke
 			(width 0)
@@ -10534,6 +10568,16 @@
 			(type default)
 		)
 		(uuid "634eefdc-bfd0-4673-93e0-3b9ca636b322")
+	)
+	(wire
+		(pts
+			(xy 81.28 44.45) (xy 81.28 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64d7271c-8157-4887-a3c1-744b905cb682")
 	)
 	(wire
 		(pts
@@ -10964,6 +11008,16 @@
 			(type default)
 		)
 		(uuid "7d5242e5-4e47-4f9d-86c5-5642f8e94dae")
+	)
+	(wire
+		(pts
+			(xy 120.65 67.31) (xy 120.65 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e55928a-8066-4447-93db-687709d89706")
 	)
 	(wire
 		(pts
@@ -11407,7 +11461,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 44.45) (xy 78.74 44.45)
+			(xy 74.93 44.45) (xy 81.28 44.45)
 		)
 		(stroke
 			(width 0)
@@ -11514,6 +11568,16 @@
 			(type default)
 		)
 		(uuid "9faadbe1-8314-43d4-806c-8bedf54b4ed2")
+	)
+	(wire
+		(pts
+			(xy 81.28 59.69) (xy 81.28 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0709a86-6ae2-4e1e-b842-f3a398006bcf")
 	)
 	(wire
 		(pts
@@ -12747,6 +12811,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 39.37) (xy 33.02 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed86b7fb-abc1-4c99-8fd5-53af5eb6970c")
+	)
+	(wire
+		(pts
 			(xy 326.39 168.91) (xy 339.09 168.91)
 		)
 		(stroke
@@ -12767,6 +12841,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 44.45) (xy 27.94 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef7b34e1-2a9f-4957-915f-c843fe6f490c")
+	)
+	(wire
+		(pts
 			(xy 372.11 100.33) (xy 370.84 100.33)
 		)
 		(stroke
@@ -12784,6 +12868,16 @@
 			(type default)
 		)
 		(uuid "efe26209-f67e-46e7-879f-cdb8d73f57bc")
+	)
+	(wire
+		(pts
+			(xy 124.46 50.8) (xy 124.46 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efed9a6f-6177-455c-8d92-d3ffb6323945")
 	)
 	(wire
 		(pts
@@ -12877,7 +12971,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 44.45) (xy 78.74 43.18)
+			(xy 81.28 44.45) (xy 81.28 27.94)
 		)
 		(stroke
 			(width 0)
@@ -13887,7 +13981,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 120.65 58.42 0)
+		(at 120.65 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13897,7 +13991,7 @@
 		)
 		(uuid "f81c3b97-45b4-4b7f-b9ee-6e0b8a0cf0ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.1428 58.42 0)
+			(at 127.1428 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14693,6 +14787,87 @@
 			(project "beelight-piggy-base"
 				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
 					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id ".local:C")
+		(at 81.28 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0fcd9a9d-8b6b-4d1a-bbe0-8b177aa9482c")
+		(property "Reference" "C31"
+			(at 78.994 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 78.994 54.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 82.2452 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 81.28 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "aaf2574d-ffd2-46a7-a78e-4ab8bb418eb0")
+		)
+		(pin "1"
+			(uuid "e0e0e6eb-9881-4aec-9d78-7693a0026fbb")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -19090,6 +19265,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 124.46 53.34 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "820a495f-cb69-4854-95d4-f3d47cab9f00")
+		(property "Reference" "#PWR085"
+			(at 124.46 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 124.46 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 124.46 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "88345d69-efd1-4e7e-bce3-b43339224080")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "#PWR085")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 63.5 195.58 90)
 		(mirror x)
@@ -21381,6 +21634,87 @@
 		)
 	)
 	(symbol
+		(lib_id ".local:C")
+		(at 27.94 41.91 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "af63bc1b-a290-4366-a07e-82570c862ec2")
+		(property "Reference" "C30"
+			(at 25.146 35.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 25.146 37.846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 28.9052 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 27.94 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2e8acda7-da14-411a-80a0-da3e18b43240")
+		)
+		(pin "1"
+			(uuid "73a183f9-33bc-4490-9b56-7d9f009a7ec6")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 63.5 200.66 270)
 		(unit 1)
@@ -22856,6 +23190,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 27.94 46.99 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c648b11e-8fe6-4736-bbd2-16fdc91f7c4c")
+		(property "Reference" "#PWR083"
+			(at 27.94 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 27.94 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 27.94 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 27.94 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "be27e8a0-a585-40d8-9c12-dd72aa8c1d87")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "#PWR083")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VBUS")
 		(at 77.47 186.69 0)
 		(unit 1)
@@ -24002,6 +24414,87 @@
 		)
 	)
 	(symbol
+		(lib_id ".local:C")
+		(at 124.46 48.26 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e493ffaf-6ad8-43ba-8e04-7036c105b5ab")
+		(property "Reference" "C32"
+			(at 118.872 39.878 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 118.872 42.418 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 125.4252 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 124.46 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "9d13e851-6373-4944-b606-98591846777b")
+		)
+		(pin "1"
+			(uuid "2e23fac7-64b8-4afd-bf42-988fe521f2cf")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "C32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id ".local:rysta")
 		(at 63.5 128.27 0)
 		(unit 1)
@@ -24694,6 +25187,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 81.28 62.23 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f0896fed-0eee-4063-a1ec-07788feaaa92")
+		(property "Reference" "#PWR084"
+			(at 81.28 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 81.28 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 81.28 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6ba83f19-c67d-4897-9ad1-6cf3bbb1b8f8")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "#PWR084")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EasyEDA_Lib:WS2816B-2020")
 		(at 309.88 124.46 0)
 		(unit 1)
@@ -25159,7 +25730,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 78.74 43.18 0)
+		(at 81.28 27.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25169,7 +25740,7 @@
 		(dnp no)
 		(uuid "f93a6a66-bf19-4e1d-8791-473d2c45d6f6")
 		(property "Reference" "#PWR031"
-			(at 78.74 46.99 0)
+			(at 81.28 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25180,7 +25751,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 80.264 39.37 0)
+			(at 79.502 24.384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25190,7 +25761,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 43.18 0)
+			(at 81.28 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25201,7 +25772,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 43.18 0)
+			(at 81.28 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25212,7 +25783,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 78.74 43.18 0)
+			(at 81.28 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
