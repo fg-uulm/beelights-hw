@@ -3609,6 +3609,351 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector_Generic:Conn_01x03"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x03"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x03_1_1"
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_01x10"
 			(pin_names
 				(offset 1.016)
@@ -4560,171 +4905,6 @@
 				(pin passive line
 					(at 0 -2.54 90)
 					(length 1.8542)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:Polyfuse"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "F"
-				(at -2.54 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Polyfuse"
-				(at 2.54 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 1.27 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "resettable fuse PTC PPTC polyfuse polyswitch"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "*polyfuse* *PTC*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Polyfuse_0_1"
-				(polyline
-					(pts
-						(xy -1.524 2.54) (xy -1.524 1.524) (xy 1.524 -1.524) (xy 1.524 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -0.762 2.54)
-					(end 0.762 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Polyfuse_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
 					(name ""
 						(effects
 							(font
@@ -5794,6 +5974,183 @@
 						(effects
 							(font
 								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "EasyEDA_Lib:BSMD0805-050-12V"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "EasyEDA_Lib:F0805"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/datasheet/BSMD0805-050-12V/3388416.html"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Voltage - Max:12V Current - Max:40A Hold Current:500mA Trip Current:1A Power Dissipation:500mW Resistance - Initial (Ri) (Min):100mΩ Resistance - Post Trip (R1) (Max):850mΩ Time to Trip(Max):100ms Operating Temperature:-40°C~+85°C Operating Temperature:-40°C"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer Part" "BSMD0805-050-12V"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "BHFUSE(佰宏)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Supplier Part" "C2977522"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part Name" "12V 0.5A 0805自恢复"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "BSMD0805-050-12V_1_0"
+				(rectangle
+					(start -3.302 0.762)
+					(end 3.302 -0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.0254 0.0254)
 							)
 						)
 					)
@@ -8820,6 +9177,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 182.88) (xy 364.49 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04db94c9-e7da-4740-8361-2377f645335f")
+	)
+	(wire
+		(pts
 			(xy 275.59 50.8) (xy 275.59 45.72)
 		)
 		(stroke
@@ -8827,6 +9194,16 @@
 			(type default)
 		)
 		(uuid "0540b5db-c7b4-4dcf-9a68-cfdf63fe7528")
+	)
+	(wire
+		(pts
+			(xy 365.76 185.42) (xy 339.09 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05e471a7-e6b5-4883-9318-4030844b32e7")
 	)
 	(wire
 		(pts
@@ -8937,6 +9314,16 @@
 			(type default)
 		)
 		(uuid "0c6952f4-0f62-4bb4-8f5f-070ea3a6d143")
+	)
+	(wire
+		(pts
+			(xy 33.02 232.41) (xy 33.02 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cae1b7c-a16f-4ebc-b440-709d868c1953")
 	)
 	(wire
 		(pts
@@ -9117,6 +9504,16 @@
 			(type default)
 		)
 		(uuid "16648ade-d21d-4add-bcbb-b618ae396e06")
+	)
+	(wire
+		(pts
+			(xy 365.76 187.96) (xy 360.68 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16a64cbd-4293-44f6-94cc-7e74b2716ac7")
 	)
 	(wire
 		(pts
@@ -9410,6 +9807,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 187.96) (xy 360.68 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "290d2f16-2cfa-431c-a421-b8f5deddb819")
+	)
+	(wire
+		(pts
 			(xy 165.1 137.16) (xy 167.64 137.16)
 		)
 		(stroke
@@ -9420,7 +9827,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 171.45) (xy 350.52 176.53)
+			(xy 350.52 171.45) (xy 350.52 172.72)
 		)
 		(stroke
 			(width 0)
@@ -9960,6 +10367,16 @@
 	)
 	(wire
 		(pts
+			(xy 316.23 220.98) (xy 322.58 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53385d15-131f-40d4-bf47-02d8c0b4f97b")
+	)
+	(wire
+		(pts
 			(xy 36.83 146.05) (xy 50.8 146.05)
 		)
 		(stroke
@@ -10450,16 +10867,6 @@
 	)
 	(wire
 		(pts
-			(xy 300.99 220.98) (xy 307.34 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "786375d9-2244-41b7-b0fc-661c0e77400c")
-	)
-	(wire
-		(pts
 			(xy 273.05 95.25) (xy 275.59 95.25)
 		)
 		(stroke
@@ -10637,6 +11044,16 @@
 			(type default)
 		)
 		(uuid "84538380-92e4-4732-b959-c13519085971")
+	)
+	(wire
+		(pts
+			(xy 365.76 182.88) (xy 364.49 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "849d2be5-013c-4f98-ab75-d25a2168a0c3")
 	)
 	(wire
 		(pts
@@ -11037,6 +11454,16 @@
 			(type default)
 		)
 		(uuid "998a6577-b1c7-4199-b97f-eddf2253c0c7")
+	)
+	(wire
+		(pts
+			(xy 33.02 229.87) (xy 34.29 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ab466c2-6ce2-4c99-8331-17b21ff78e03")
 	)
 	(wire
 		(pts
@@ -11770,6 +12197,16 @@
 	)
 	(wire
 		(pts
+			(xy 300.99 220.98) (xy 306.07 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8b7e17a-5623-43bb-a019-6117421bffbb")
+	)
+	(wire
+		(pts
 			(xy 118.11 226.06) (xy 135.89 226.06)
 		)
 		(stroke
@@ -11937,6 +12374,16 @@
 			(type default)
 		)
 		(uuid "d05db4e6-14b3-4a03-bc64-4091b2bbfc74")
+	)
+	(wire
+		(pts
+			(xy 339.09 185.42) (xy 339.09 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1467caf-462d-47fd-8a61-50486782aa85")
 	)
 	(wire
 		(pts
@@ -12197,6 +12644,16 @@
 			(type default)
 		)
 		(uuid "e08d3f28-3a82-47db-9957-465198945517")
+	)
+	(wire
+		(pts
+			(xy 33.02 232.41) (xy 34.29 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2ba0acd-1a59-4ae7-9029-256eeacf1075")
 	)
 	(wire
 		(pts
@@ -12580,16 +13037,6 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 220.98) (xy 322.58 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fee6146f-9770-44f5-91df-55bd9a4bd179")
-	)
-	(wire
-		(pts
 			(xy 298.45 100.33) (xy 298.45 97.79)
 		)
 		(stroke
@@ -12835,6 +13282,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "BAT"
+		(shape input)
+		(at 33.02 229.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6473c8e5-86a7-46bd-b4b4-aab7fb8338ad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.7086 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -13222,6 +13693,30 @@
 			)
 		)
 	)
+	(global_label "VLED"
+		(shape input)
+		(at 364.49 181.61 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4a59991-d5a4-45c5-8b9d-e337587f4971")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 364.49 174.0891 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "SCL"
 		(shape input)
 		(at 59.69 69.85 270)
@@ -13525,8 +14020,8 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "020258b3-4407-430d-9b5f-17308422f71c")
@@ -13697,6 +14192,166 @@
 			(project "beelight-piggy-base"
 				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
 					(reference "#PWR077")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 360.68 189.23 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "03399716-dd73-4b5b-aeea-175aef4c6b86")
+		(property "Reference" "#PWR038"
+			(at 360.68 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 358.14 189.738 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 360.68 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 360.68 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 360.68 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f55077ea-23a3-42db-a90f-2a650155ca5d")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 39.37 229.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "06c13db3-8b82-4bf0-9351-fbe331a8dd2c")
+		(property "Reference" "J3"
+			(at 41.91 229.8699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BatSolderPads"
+			(at 41.91 232.4099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_2114_3652Metric_Pad1.85x3.75mm_HandSolder"
+			(at 39.37 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 39.37 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "08df80ce-d495-44ee-8f8c-45b0ad493462")
+		)
+		(pin "1"
+			(uuid "e769a1d6-f519-4324-af19-46ccd8b880f0")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -13907,7 +14562,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 271.78 231.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14290,7 +14945,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k tbd"
+		(property "Value" "6.34k"
 			(at 182.88 186.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14434,7 +15089,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -14900,10 +15555,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "207fabec-bcae-4399-80e8-df6080b095c9")
 		(property "Reference" "J4"
 			(at 358.648 173.482 90)
@@ -15232,7 +15887,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µF"
+		(property "Value" "10uF"
 			(at 80.01 197.5738 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15600,8 +16255,8 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "36683bdc-02ad-481f-b794-b586d2a660a0")
@@ -16013,8 +16668,8 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "44e1047c-4a31-42b9-b928-2849be526d8a")
@@ -16504,8 +17159,8 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "5522d983-d179-4591-a938-2f3bf8ada7f0")
@@ -17144,6 +17799,91 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x03")
+		(at 370.84 185.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "62960523-8c90-4e77-a5e7-87fe95878b74")
+		(property "Reference" "J11"
+			(at 373.38 184.1499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ExtWSSolderPads"
+			(at 373.38 186.6899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Crystal:Resonator_SMD-3Pin_7.2x3.0mm_HandSoldering"
+			(at 370.84 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 370.84 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 370.84 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7c7cc49c-4c3d-4717-b486-50a31f730a0b")
+		)
+		(pin "3"
+			(uuid "407d5155-b3a5-4d8f-85a9-df857054bc4d")
+		)
+		(pin "2"
+			(uuid "0d743b06-195a-44f4-b8cf-0a4c734b1c4d")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id ".local:BQ27421-G1")
 		(at 148.59 233.68 0)
 		(unit 1)
@@ -17568,7 +18308,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "690456ce-8d39-48c0-b956-68b91989cbfd")
@@ -17592,7 +18332,7 @@
 				)
 			)
 		)
-		(property "Footprint" ".local:USB_C_Receptacle_GCT_USB4125-xx-x_6P_TopMnt_Horizontal"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x_6P_TopMnt_Horizontal"
 			(at 48.26 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -17969,7 +18709,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 350.52 176.53 0)
+		(at 350.52 172.72 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -17980,7 +18720,7 @@
 		(dnp no)
 		(uuid "73d1a4b5-ab82-4e72-acde-974e31a655bb")
 		(property "Reference" "#PWR022"
-			(at 350.52 182.88 0)
+			(at 350.52 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17991,7 +18731,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 347.98 177.038 90)
+			(at 347.98 173.228 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18001,7 +18741,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 350.52 176.53 0)
+			(at 350.52 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18012,7 +18752,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 350.52 176.53 0)
+			(at 350.52 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18023,7 +18763,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 350.52 176.53 0)
+			(at 350.52 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19137,10 +19877,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8f8c45d5-c78e-4c3c-8f1c-3ea5d20245cb")
 		(property "Reference" "SW1"
@@ -19166,7 +19906,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 100.33 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -19875,6 +20615,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 33.02 234.95 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a06daeac-755e-42cf-8c58-a02f76231920")
+		(property "Reference" "#PWR082"
+			(at 33.02 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 33.02 238.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 33.02 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9f41562f-2bcd-491e-b79a-fa255e2a372a")
+		)
+		(instances
+			(project "beelight-piggy-base"
+				(path "/22ed276f-7cd6-4eef-b98c-6265ea08505b"
+					(reference "#PWR082")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5VP")
 		(at 267.97 217.17 0)
 		(unit 1)
@@ -20260,7 +21078,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -20666,7 +21484,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k tbd"
+		(property "Value" "22.1k"
 			(at 182.88 199.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20748,7 +21566,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 128.27 198.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21048,8 +21866,9 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Polyfuse")
-		(at 311.15 220.98 90)
+		(lib_id "EasyEDA_Lib:BSMD0805-050-12V")
+		(at 311.15 220.98 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21057,10 +21876,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b74963b8-4a4b-4ca8-8966-6a26418cedfd")
 		(property "Reference" "F1"
-			(at 311.15 214.63 90)
+			(at 311.15 215.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21070,7 +21888,7 @@
 			)
 		)
 		(property "Value" "Polyfuse 1500mA"
-			(at 311.15 217.17 90)
+			(at 311.15 218.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21079,19 +21897,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
-			(at 316.23 219.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" ""
+		(property "Footprint" "EasyEDA_Lib:F0805"
 			(at 311.15 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -21102,7 +21908,73 @@
 				)
 			)
 		)
-		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+		(property "Datasheet" "https://item.szlcsc.com/datasheet/BSMD0805-050-12V/3388416.html"
+			(at 311.15 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Voltage - Max:12V Current - Max:40A Hold Current:500mA Trip Current:1A Power Dissipation:500mW Resistance - Initial (Ri) (Min):100mΩ Resistance - Post Trip (R1) (Max):850mΩ Time to Trip(Max):100ms Operating Temperature:-40°C~+85°C Operating Temperature:-40°C"
+			(at 311.15 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "BSMD0805-050-12V"
+			(at 311.15 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "BHFUSE(佰宏)"
+			(at 311.15 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Part" "C2977522"
+			(at 311.15 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier" "LCSC"
+			(at 311.15 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part Name" "12V 0.5A 0805自恢复"
 			(at 311.15 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -21929,7 +22801,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 33.02 252.73 0)
+			(at 33.02 251.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22455,7 +23327,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d3ca776f-36ee-4067-be97-6ff93183311b")
 		(property "Reference" "U6"
 			(at 157.9448 64.77 90)
@@ -22648,7 +23520,8 @@
 	)
 	(symbol
 		(lib_id ".local:R")
-		(at 170.18 214.63 90)
+		(at 170.18 214.63 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22656,7 +23529,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d8aa2b34-b9c2-410f-9c40-c570b4a88579")
 		(property "Reference" "R25"
 			(at 170.18 208.28 90)
@@ -23135,10 +24007,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e49769bd-1eda-49b3-8f83-80a202110d38")
 		(property "Reference" "U4"
@@ -23664,10 +24536,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ec14eaf0-1cf9-440e-9495-9e4e4583b987")
 		(property "Reference" "J7"
 			(at 36.576 249.936 0)
@@ -24527,7 +25399,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
