@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,10.0.1*%
-%TF.CreationDate,2026-06-21T12:29:43+02:00*%
+%TF.CreationDate,2026-06-21T18:29:30+02:00*%
 %TF.ProjectId,beelight-piggy-base,6265656c-6967-4687-942d-70696767792d,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 10.0.1) date 2026-06-21 12:29:43*
+G04 Created by KiCad (PCBNEW 10.0.1) date 2026-06-21 18:29:30*
 %MOMM*%
 %LPD*%
 G01*
@@ -29,7 +29,7 @@ G04 Aperture macros list*
 20,1,$1+$1,$6,$7,$8,$9,0*
 20,1,$1+$1,$8,$9,$2,$3,0*%
 G04 Aperture macros list end*
-%ADD10RoundRect,0.250200X0.649800X0.649800X-0.649800X0.649800X-0.649800X-0.649800X0.649800X-0.649800X0*%
+%ADD10RoundRect,0.250200X0.887643X0.237843X-0.237843X0.887643X-0.887643X-0.237843X0.237843X-0.887643X0*%
 %ADD11C,1.800000*%
 %ADD12C,1.700000*%
 %ADD13R,4.000000X2.000000*%
@@ -42,10 +42,10 @@ G04 Aperture macros list end*
 G04 APERTURE END LIST*
 D10*
 %TO.C,U6*%
-X157695417Y-78102500D03*
+X170305417Y-74872500D03*
 D11*
-X155155417Y-78102500D03*
-X152615417Y-78102500D03*
+X168105710Y-73602496D03*
+X165906008Y-72332500D03*
 %TD*%
 D12*
 %TO.C,U4*%
