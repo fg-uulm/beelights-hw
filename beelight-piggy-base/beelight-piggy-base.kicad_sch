@@ -18080,7 +18080,7 @@
 				)
 			)
 		)
-		(property "Value" "BQ27421-G1"
+		(property "Value" "bq27427yzfr"
 			(at 148.59 220.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21427,7 +21427,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "2.2uF"
 			(at 168.91 246.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
